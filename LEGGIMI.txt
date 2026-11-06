@@ -1,0 +1,8 @@
+Riprendi – Superficie 10 | Prova funzionale senza animazione
+
+Carica index.html e logo-originale.png nella radice del repository GitHub.
+Non serve caricare file ZIP o il vecchio logo-flusso.gif.
+Questa versione usa dati locali al dispositivo: non è ancora multiutente.
+Orari selezionabili esclusivamente a intervalli di 15 minuti mediante menu dedicati.
+
+Prima di sostituire il sito pubblicato, prova questa versione in un ambiente separato.
